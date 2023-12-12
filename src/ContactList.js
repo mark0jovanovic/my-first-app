@@ -1,4 +1,4 @@
-// ContactList.js
+
 import React from 'react';
 
 const ContactList = ({ contacts, onDeleteContact }) => {
